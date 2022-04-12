@@ -3,3 +3,18 @@ body {
     font-weight: 300;
     font-family: 'Lato', 'Arial', sans-serif;
 }
+
+.banner {
+    background-image: url("assets/backgroud.jpeg");
+    width: 100vw;
+    height: 400px;
+    background-position: 50% 70%;
+}
+
+.fload-right {
+    float: end;
+}
+
+.desc {
+    text-align: start;
+}
